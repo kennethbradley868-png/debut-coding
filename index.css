@@ -154,6 +154,12 @@ article{
      float: right;
      padding-right: 50px;
  }
+
+.debut{
+      color: blue;
+
+}
+
 footer{
     background-color:rgba(20, 70, 220, 0.7);;
     height: 600px;
@@ -161,3 +167,4 @@ footer{
     font-size: xx-large;
     text-align: center;
 }
+
