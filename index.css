@@ -41,7 +41,7 @@ nav a:hover{
 }
 #b{
    height: 430px;
-   background-image: url(../images/tracteur.jpg);
+   background-image: url(../tracteur.jpg);
    border-radius: 7px ;
    border-bottom: 5px solid rgba(127, 112, 255, 0.7);
    margin-bottom: 40px;
@@ -167,5 +167,6 @@ footer{
     font-size: xx-large;
     text-align: center;
 }
+
 
 
